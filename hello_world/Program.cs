@@ -9,6 +9,6 @@ class HelloWorld
         {
             Console.WriteLine(item);
         }
-        Console.ReadLine();
+        // Console.ReadLine();
     }
 }
